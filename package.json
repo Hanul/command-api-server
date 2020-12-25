@@ -1,0 +1,10 @@
+{
+    "name": "command-api-server",
+    "author": "Young Jae Sim",
+    "homepage": "https://githun.com/Hanul/command-api-server",
+    "version": "0.0.1-beta.1",
+    "dependencies": {
+        "uppercase": "^2.0.0-beta.23"
+    },
+    "main": "./lib/main.js"
+}
